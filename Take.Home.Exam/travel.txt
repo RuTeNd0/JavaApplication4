@@ -1,0 +1,4 @@
+Travelers details
+Location departure Cape Town
+Location arrivale: Cape Town
+Mode of transportation: Airplane
